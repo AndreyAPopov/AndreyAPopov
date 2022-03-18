@@ -1,4 +1,6 @@
-### Hi there 👋
+### Andrey A Popov
+
+I am currently a PhD candidate in the Computational Science Laboratory at Virginia Tech
 
 <!--
 **AndreyAPopov/AndreyAPopov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
