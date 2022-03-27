@@ -1,6 +1,8 @@
 ### Andrey A Popov
 
-I am currently a PhD candidate in the Computational Science Laboratory at Virginia Tech
+I am a PhD candidate in the Computational Science Laboratory at Virginia Tech.
+
+I am currently looking for postdoc opportunities.
 
 <!--
 **AndreyAPopov/AndreyAPopov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
