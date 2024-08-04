@@ -1,3 +1,3 @@
 ### Andrey A Popov
 
-I am a PostDoc at Oden.
+I am an Assistant Professor at the University of Hawai'i at Manoa.
